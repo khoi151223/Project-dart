@@ -14,6 +14,6 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: False,
       home:Dashboard(),
     ); //MaterialApp
-  )
+  ),
 }
       
