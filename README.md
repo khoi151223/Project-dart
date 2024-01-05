@@ -1,16 +1,7 @@
-# project
+# flutter_todo_app
 
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mục đích của app là giúp người dùng có thể xây dựng được danh sách những việc cần làm và có thể quản lý được nó
+App có 4 chức năng chính là: Thêm việc mới, tìm kiếm các việc đã lưu, đánh dấu các công việc đã hoàn thành và xóa các việc đã làm đi 
+Khi vào app sẽ xuất hiện 6 to do item mẫu: 6 mẫu này được lưu trong model/todo.dart người dùng có thể sửa tên việc ở đó 
+Ở góc phải bên trên của app có hình ảnh đại diện, người dùng có thể vào file assets/images và sửa file ảnh mà mình muốn trong đó 
